@@ -12,6 +12,7 @@ import androidx.recyclerview.widget.RecyclerView;
 
 public class MainActivity extends AppCompatActivity {
     String[] arr= {"apple", "banana", "cherry", "date", "elderberry",
+            "fig", "grape", "honeydew", "kiwi", "lemon", "apple", "banana", "cherry", "date", "elderberry",
             "fig", "grape", "honeydew", "kiwi", "lemon"};
     @Override
     protected void onCreate(Bundle savedInstanceState) {
