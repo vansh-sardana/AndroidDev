@@ -47,4 +47,5 @@
             android:paddingVertical="12dp"
             android:text="Play" />
     </LinearLayout>
+
 </androidx.constraintlayout.widget.ConstraintLayout>
